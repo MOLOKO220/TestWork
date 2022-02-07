@@ -3,7 +3,7 @@ import "./NewPage.scss";
 function NewPage(props) {
   return (
     <div className="wrapp">
-      <a href="/">Home</a>
+      <a href="/react-test-work">Home</a>
     </div>
   );
 }

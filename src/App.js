@@ -21,7 +21,7 @@ function App() {
         <Routes>
           <Route
             exact
-            path="/"
+            path="testWork"
             element={
               <div>
                 <Header />
@@ -32,11 +32,11 @@ function App() {
               </div>
             }
           />
-          <Route exact path="testpage" element={<NewPage />} />
+          <Route exact path="testWork/testpage" element={<NewPage />} />
         </Routes>
       </Router>
       <div ref={plug} className="plug"></div>
-      <p>CompLdsdink</p>
+      <p>new</p>
     </>
   );
 }
