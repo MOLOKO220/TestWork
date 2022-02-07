@@ -1,0 +1,31 @@
+.where-who-what {
+  position: relative;
+  width: auto;
+  height: 22px;
+  font-family: Grtsk Giga;
+  font-size: 16px;
+  line-height: 140%;
+  text-align: center;
+  color: #373737;
+  cursor: pointer;
+  transition: 300ms;
+  overflow: hidden;
+  @media (max-width: 502px) {
+    display: none;
+  }
+  > div {
+    height: 99%;
+    width: 100%;
+    border-bottom: 2px #ffffff solid;
+    position: absolute;
+    top: 0;
+    transition: 300ms;
+    transform: translate(-100%, 0);
+  }
+  &:hover {
+    color: rgb(255, 255, 255);
+    > div {
+      transform: translate(0%, 0);
+    }
+  }
+}

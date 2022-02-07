@@ -1,0 +1,15 @@
+import "./Ticker.scss";
+
+function Ticker(props) {
+  return (
+    <marquee className={props.className} direction={props.direction}>
+      FULL-CYCLE EVENT AGENCY FULL-CYCLE EVENT AGENCY! FULL-CYCLE EVENT AGENCY
+      FULL-CYCLE EVENT AGENCY! FULL-CYCLE EVENT AGENCY FULL-CYCLE EVENT AGENCY!
+      FULL-CYCLE EVENT AGENCY FULL-CYCLE EVENT AGENCY!FULL-CYCLE EVENT AGENCY
+      FULL-CYCLE EVENT AGENCY! FULL-CYCLE EVENT AGENCY FULL-CYCLE EVENT AGENCY!
+      FULL-CYCLE EVENT AGENCY FULL-CYCLE EVENT AGENCY!
+    </marquee>
+  );
+}
+
+export default Ticker;
