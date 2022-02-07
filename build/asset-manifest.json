@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/testWork/static/css/main.20243acf.css",
-    "main.js": "/testWork/static/js/main.57cd21d9.js",
+    "main.js": "/testWork/static/js/main.3d25a41f.js",
     "static/js/787.97a945da.chunk.js": "/testWork/static/js/787.97a945da.chunk.js",
     "static/media/GrtskGiga-SemiboldItalic.eot": "/testWork/static/media/GrtskGiga-SemiboldItalic.7392141ffd7320f9c53c.eot",
     "static/media/GrtskGiga-SemiboldItalic.ttf": "/testWork/static/media/GrtskGiga-SemiboldItalic.e332b7a1f8cc99e59db7.ttf",
@@ -92,11 +92,11 @@
     "index.html": "/testWork/index.html",
     "static/media/burgerBtn.svg": "/testWork/static/media/burgerBtn.7fd51fb5cec3fe1a3ff227932398982e.svg",
     "main.20243acf.css.map": "/testWork/static/css/main.20243acf.css.map",
-    "main.57cd21d9.js.map": "/testWork/static/js/main.57cd21d9.js.map",
+    "main.3d25a41f.js.map": "/testWork/static/js/main.3d25a41f.js.map",
     "787.97a945da.chunk.js.map": "/testWork/static/js/787.97a945da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.20243acf.css",
-    "static/js/main.57cd21d9.js"
+    "static/js/main.3d25a41f.js"
   ]
 }

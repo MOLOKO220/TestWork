@@ -36,7 +36,6 @@ function App() {
         </Routes>
       </Router>
       <div ref={plug} className="plug"></div>
-      <p>new</p>
     </>
   );
 }
