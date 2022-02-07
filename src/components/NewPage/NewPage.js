@@ -1,9 +1,10 @@
 import "./NewPage.scss";
+import { Link } from "react-router-dom";
 
 function NewPage(props) {
   return (
     <div className="wrapp">
-      <a href="/react-test-work">Home</a>
+      <Link to="testWork">Home</Link>
     </div>
   );
 }
